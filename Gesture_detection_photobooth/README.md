@@ -1,6 +1,6 @@
 ## Setup
 
-Gether the necessary supplies mentioned in the README file
+Gether the necessary supplies mentioned in the other README file on the first page of this repo
 
 ## Camera Setup 
 
