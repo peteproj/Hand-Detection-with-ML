@@ -8,8 +8,8 @@ In this contains a folder with the code to use an arducam with a raspberry pi to
 - Set up a camera module on the Raspberry Pi
 
 ## SUPPLIES:
-1x Raspberry Pi
-1x camera module with appropriate cable
+- 1x Raspberry Pi
+- 1x camera module with appropriate cable
 
 ## Authors
 
