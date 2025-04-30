@@ -1,9 +1,3 @@
-
-## Authors
-
-- [@peteproj](https://github.com/peteproj)
-- [@josbor1](https://github.com/josbor1)
-
 ## Setup
 
 Gether the necessary supplies mentioned in the README file
